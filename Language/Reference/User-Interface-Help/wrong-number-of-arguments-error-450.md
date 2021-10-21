@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # Wrong number of arguments (Error 450)
 
-The number of [arguments](../../Glossary/vbe-glossary.md#argument) to a procedure must match the number of[parameters](../../Glossary/vbe-glossary.md#parameter) in the [procedure's](../../Glossary/vbe-glossary.md#procedure) definition. This error has the following causes and solutions:
+The number of [arguments](../../Glossary/vbe-glossary.md#argument) to a procedure must match the number of [parameters](../../Glossary/vbe-glossary.md#parameter) in the [procedure's](../../Glossary/vbe-glossary.md#procedure) definition. This error has the following causes and solutions:
 
 
 
